@@ -5,3 +5,5 @@ db.sqlite3
 .DS_Store
 __pycache__
 /media
+/collected_statics
+

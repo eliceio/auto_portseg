@@ -8,9 +8,15 @@ https://docs.djangoproject.com/en/2.1/howto/deployment/wsgi/
 """
 
 import os
+import socket
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'auto_portseg.settings')
+ip = socket.gethostbyname(socket.gethostname())
+
+if ip == '172.31.30.149':
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'auto_portseg.settings_products')
+else:
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'auto_portseg.settings')
 
 application = get_wsgi_application()
