@@ -1,3 +1,5 @@
+{% load staticfiles %}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,10 +16,10 @@
 Stimulus Template
 http://www.templatemo.com/tm-498-stimulus
 -->
-<link rel="stylesheet" href="/static/css/bootstrap.min.css">
-<link rel="stylesheet" href="/static/css/animate.css">
-<link rel="stylesheet" href="/static/css/font-awesome.min.css">
-<link rel="stylesheet" href="/static/css/templatemo-style.css">
+<link rel="stylesheet" href="{% static "/css/bootstrap.min.css" %}">
+<link rel="stylesheet" href="{% static "/css/animate.css" %}">
+<link rel="stylesheet" href="{% static "/css/font-awesome.min.css" %}">
+<link rel="stylesheet" href="{% static "/css/templatemo-style.css" %}">
 
 <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700" rel="stylesheet">
 
@@ -386,12 +388,12 @@ http://www.templatemo.com/tm-498-stimulus
 
 <!-- SCRIPTS -->
 
-<script src="/static/js/jquery.js"></script>
-<script src="/static/js/bootstrap.min.js"></script>
-<script src="/static/js/jquery.parallax.js"></script>
-<script src="/static/js/smoothscroll.js"></script>
-<script src="/static/js/wow.min.js"></script>
-<script src="/static/js/custom.js"></script>
+<script src="{% static "/js/jquery.js" %}"></script>
+<script src="{% static "/js/bootstrap.min.js" %}"></script>
+<script src="{% static "/js/jquery.parallax.js" %}"></script>
+<script src="{% static "/js/smoothscroll.js" %}"></script>
+<script src="{% static "/js/wow.min.js" %}"></script>
+<script src="{% static "/js/custom.js" %}"></script>
 
 </body>
 </html>
