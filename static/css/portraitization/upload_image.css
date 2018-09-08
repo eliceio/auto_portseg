@@ -25,12 +25,32 @@ form button {
     width: 100%;
     min-height: 800px;
     min-width: 600px;
-    border: 3px solid dimgrey;
+    border: 3px solid #E3AE57;
     text-align: center;
 }
 
 .img-show p {
-    line-height: 50;
+    margin-top: 50%;
     display: inline-block;
     vertical-align: middle;
+}
+
+.img-progress {
+    margin-top: 50%;
+    height: 100%;
+    width: 100%;
+    min-height: 800px;
+    min-width: 600px;
+}
+
+.img .progress-p {
+    margin-left: 100px;
+    line-height: 150%;
+    font-size: 18px;
+    vertical-align: middle;
+    visibility: hidden;
+}
+
+.portraitization_title{
+    font-size: 26px;
 }

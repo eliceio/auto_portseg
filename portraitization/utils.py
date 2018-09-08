@@ -1,22 +1,10 @@
-import datetime
-import os
-
-from django.utils.deconstruct import deconstructible
+from .models import RawImage, Portrait
 
 
-@deconstructible
-class PathAndRename(object):
+def handle_image_file(image_file):
+    raw_image = RawImage.objects.create(image_file=image_file)
+    raw_image.save()
 
-    def __init__(self, sub_path):
-        self.path = sub_path
+    portrait_image = None
 
-    def __call__(self, instance, filename):
-        now = datetime.datetime.now()
-
-        filepath = self.path + now.strftime("/%Y/%m/%d/%H/%M")
-
-        name = filename.split('.')[0]
-        ext = filename.split('.')[-1]
-        filename = '{}.{}'.format(str(now.second) + "_" + name, ext)
-
-        return os.path.join(filepath, filename)
+    return portrait_image

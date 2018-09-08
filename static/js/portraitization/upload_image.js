@@ -3,8 +3,9 @@ $(document).ready(function() {
         if (input.files && input.files[0]) {
             var reader = new FileReader();
             reader.onload = function (e) {
-                $('.img-show').html("<img id='user_img' src='" + e.target.result + "', alt='your image'>");
-                $('.img-show').css('border', 'none')
+                $('.img-show').html("<img id='user_img' src='" + e.target.result + "' alt='user_img' name='user_img'>");
+                $('.img-show').css('border', 'none');
+                $('.progress-p').css('visibility', 'visible');
             };
             reader.readAsDataURL(input.files[0]);
         }

@@ -7,7 +7,7 @@
 
 {% block content %}
     <div>
-        <h3>Up load your Selfie!</h3>
+        <h4 class="portraitization_title">Upload your Selfie!</h4>
         <form action="" method="post" enctype="multipart/form-data">
             <div class="col-md-6 col-sm-6">
                 {% csrf_token %}
@@ -18,9 +18,18 @@
                 </div>
             </div>
             <div class="col-md-6 col-sm-6">
+                <div class="img img-progress">
+                    <h3 class="img progress-p p1">Crop the image</h3>
+                    <h3 class="img progress-p p2">Check the size of the cropped image</h3>
+                    <h3 class="img progress-p p3">Check if hat is worn</h3>
+                    <h3 class="img progress-p p4">Check the angle of the face</h3>
+                    <h3 class="img progress-p p5">Segment from background</h3>
+                    <h3 class="img progress-p p6">Fill the background color</h3>
+                </div>
             </div>
 
         </form>
+
     </div>
 
 {% endblock %}
