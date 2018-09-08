@@ -13,3 +13,7 @@ class PortraitAdmin(admin.ModelAdmin):
     model = Portrait
 
     list_display = ['raw_image', 'image_file', ]
+
+
+admin.site.register(RawImage, RawImageAdmin)
+admin.site.register(Portrait, PortraitAdmin)
