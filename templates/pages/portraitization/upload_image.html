@@ -1,0 +1,30 @@
+{% extends 'pages/portraitization/base.html' %}
+{% load staticfiles %}
+
+{% block stylesheet %}
+    <link rel="stylesheet" href="{% static "/css/portraitization/upload_image.css" %}">
+{% endblock %}
+
+{% block content %}
+    <div>
+        <h3>Up load your Selfie!</h3>
+        <form action="" method="post" enctype="multipart/form-data">
+            <div class="col-md-6 col-sm-6">
+                {% csrf_token %}
+                {{ form.as_p }}
+                <button type="submit" class="save btn btn-default">Upload</button>
+                <div class="img img-show">
+                    <p id="img img-p">If you choose a image, It will be shown here.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-6">
+            </div>
+
+        </form>
+    </div>
+
+{% endblock %}
+
+{% block scripts %}
+    <script src="{% static "/js/portraitization/upload_image.js" %}"></script>
+{% endblock %}

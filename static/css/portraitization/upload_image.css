@@ -1,0 +1,36 @@
+label {
+    visibility: hidden;
+    height: 0px;
+}
+input {
+    line-height: 0;
+    vertical-align: middle;
+    padding: 6px 12px;
+}
+
+form p {
+    display: inline-block;
+}
+form button {
+    margin-top: 5%;
+    float: right;
+}
+
+.errorlist {
+    display:none;
+}
+
+.img-show {
+    height: 100%;
+    width: 100%;
+    min-height: 800px;
+    min-width: 600px;
+    border: 3px solid dimgrey;
+    text-align: center;
+}
+
+.img-show p {
+    line-height: 50;
+    display: inline-block;
+    vertical-align: middle;
+}

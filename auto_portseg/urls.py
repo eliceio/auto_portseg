@@ -19,10 +19,13 @@ from django.views.generic import TemplateView
 from django.conf import settings
 from django.conf.urls.static import static
 
+from portraitization.views import portraitization
+
 urlpatterns = [
     path('admin/', admin.site.urls),
 
     re_path(r'^$', TemplateView.as_view(template_name="pages/index.html")),
+    path('portraitization/', portraitization),
 ]
 
 if settings.DEBUG:
