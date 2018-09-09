@@ -12,9 +12,17 @@ $(document).ready(function() {
     }
 
     $('#id_image_file').on('change', function () {
-        preview_img(this);
         var file = this.files[0];
-        var form_data = new FormData();
-        form_data.append('file', file);
+
+        var fileType = file["type"];
+        var validImageTypes = ["image/gif", "image/jpeg", "image/png"];
+        if ($.inArray(fileType, validImageTypes) < 0) {
+            alert('This is not an image file!');
+            return 0;
+        } else {
+            preview_img(this);
+            var form_data = new FormData();
+            form_data.append('file', file);
+        }
     });
 });

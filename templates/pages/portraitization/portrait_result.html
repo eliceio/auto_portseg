@@ -1,10 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'pages/portraitization/base.html' %}
+{% load staticfiles %}
 
-</body>
-</html>
+{% block stylesheet %}
+    <link rel="stylesheet" href="{% static "/css/portraitization/portrait_result.css" %}">
+{% endblock %}
+
+{% block content %}
+    <div>
+        <h4 class="portraitization_title">Check your portrait!</h4>
+        <div class="col-md-6 col-sm-6">
+            <div class="img img-show">
+                <p id="img img-p">It is your portrait.</p>
+            </div>
+            {% if portrait_image %}
+                <img class="portrait_img" src="{{ portrait_image }}">
+            {% else %}
+                <p>Upload the valid image!</p>
+            {% endif %}
+        </div>
+    </div>
+
+{% endblock %}
+
+{% block scripts %}
+    <script src="{% static "/js/portraitization/portrait_result.js" %}"></script>
+{% endblock %}
