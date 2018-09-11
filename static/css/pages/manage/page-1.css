@@ -1,0 +1,42 @@
+.iu-center-box {
+  width:960px;
+}
+.header {
+  -webkit-box-shadow:0px 2px 0px 0px #DBDBDB;
+  background-color:#FFFFFF;
+  box-shadow:0px 2px 0px 0px #DBDBDB;
+  color:#333333;
+  height:60px;
+  left:0px;
+  overflow:visible;
+  position:relative;
+  top:0px;
+  width:100%;
+}
+.page-content {
+  background-color:#FFFFFF;
+}
+.section {
+  height:720px;
+}
+.text-362 {
+  bottom:0px;
+  color:#B4B4B4;
+  font-family:'Helvetica', sans-serif;
+  font-size:36px;
+  height:50px;
+  left:0px;
+  margin-bottom:auto;
+  margin-top:auto;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.footer {
+  background-color:#282828;
+  height:300px;
+  left:0px;
+  position:relative;
+  top:0px;
+  width:100%;
+}

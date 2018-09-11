@@ -6,4 +6,5 @@ db.sqlite3
 __pycache__
 /media
 /collected_statics
-
+/portraitization/pre_trained_seg_model
+/portraitization/pre_trained_hat_model

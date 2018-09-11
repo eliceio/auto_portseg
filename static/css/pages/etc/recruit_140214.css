@@ -1,0 +1,1598 @@
+.iu-center-box {
+  width:960px;
+}
+.header {
+  -webkit-box-shadow:0px 2px 0px 0px #DBDBDB;
+  background-color:#FFFFFF;
+  box-shadow:0px 2px 0px 0px #DBDBDB;
+  color:#333333;
+  float:none;
+  height:60px;
+  left:0px;
+  min-width:960px;
+  overflow:visible;
+  position:fixed;
+  top:0px;
+  width:100%;
+  z-index:10;
+}
+.page-content {
+  background-color:#FFFFFF;
+  background-image:url('/static/project/iStock-622523190.jpg');
+  background-repeat:repeat;
+  background-size:cover;
+  padding-top:62px;
+}
+.section {
+  height:560px;
+}
+.center-box {
+  background-image:url('/static/project/recruit_170214-01.png');
+  background-size:cover;
+}
+.floating-image {
+  background-image:url('/static/project/recruit_170214-02.png');
+  background-position:0px 0px;
+  background-size:cover;
+  float:none;
+  height:340px;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible {
+  background-color:#043863;
+  float:none;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-content {
+  display:none;
+  letter-spacing:-0.2px;
+  position:relative;
+}
+.text-903 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:15px;
+  letter-spacing:-0.2px;
+  margin-left:0px;
+  margin-top:0px;
+  padding-bottom:10px;
+  padding-left:64px;
+  padding-right:64px;
+  padding-top:10px;
+  position:relative;
+  text-align:left;
+  width:100.00%;
+  width:calc(100% - 128px);
+  width:-moz-calc(100% - 128px);
+  width:-webkit-calc(100% - 128px);
+}
+.collapsible-header {
+  height:60px;
+  position:relative;
+}
+.collapsible-header-item {
+  height:100%;
+  width:100%;
+}
+.text-900 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-452 {
+  -webkit-transform:rotate(90deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(90deg);
+  width:20px;
+}
+.collapsible-header-item-899 {
+  display:none;
+  height:100%;
+  width:100%;
+}
+.text-901 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg {
+  -webkit-transform:rotate(270deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(270deg);
+  width:20px;
+}
+.box {
+  height:32px;
+  right:28px;
+  top:33px;
+  width:32px;
+}
+.box-1011 {
+  height:32px;
+  right:28px;
+  top:65px;
+  width:32px;
+}
+.box-1012 {
+  height:32px;
+  right:28px;
+  top:97px;
+  width:32px;
+}
+.box-1013 {
+  height:32px;
+  right:28px;
+  top:129px;
+  width:32px;
+}
+.box-1014 {
+  height:32px;
+  right:28px;
+  top:161px;
+  width:32px;
+}
+.box-1015 {
+  height:32px;
+  right:28px;
+  top:193px;
+  width:32px;
+}
+.box-1016 {
+  height:32px;
+  right:28px;
+  top:225px;
+  width:32px;
+}
+.box-1017 {
+  height:32px;
+  right:28px;
+  top:257px;
+  width:32px;
+}
+.box-1018 {
+  height:32px;
+  right:28px;
+  top:289px;
+  width:32px;
+}
+.floating-image-907 {
+  background-image:url('/static/project/recruit_170214-03.png');
+  background-position:0px 0px;
+  background-size:cover;
+  float:none;
+  height:340px;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-906 {
+  background-color:#F4F1E8;
+  float:none;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-content-908 {
+  display:none;
+  letter-spacing:-0.2px;
+  position:relative;
+}
+.text-910 {
+  color:#083962;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:15px;
+  letter-spacing:-0.2px;
+  margin-left:0px;
+  margin-top:0px;
+  padding-bottom:10px;
+  padding-left:64px;
+  padding-right:64px;
+  padding-top:10px;
+  position:relative;
+  text-align:left;
+  width:100.00%;
+  width:calc(100% - 128px);
+  width:-moz-calc(100% - 128px);
+  width:-webkit-calc(100% - 128px);
+}
+.collapsible-header-909 {
+  height:60px;
+  position:relative;
+}
+.collapsible-header-item-911 {
+  height:100%;
+  width:100%;
+}
+.text-912 {
+  color:#083962;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-913 {
+  -webkit-transform:rotate(90deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(90deg);
+  width:20px;
+}
+.collapsible-header-item-914 {
+  display:none;
+  height:100%;
+  width:100%;
+}
+.text-915 {
+  color:#083962;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-916 {
+  -webkit-transform:rotate(270deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(270deg);
+  width:20px;
+}
+.box-1019 {
+  height:32px;
+  right:28px;
+  top:33px;
+  width:32px;
+}
+.box-1020 {
+  height:32px;
+  right:28px;
+  top:65px;
+  width:32px;
+}
+.box-1021 {
+  height:32px;
+  right:28px;
+  top:97px;
+  width:32px;
+}
+.box-1023 {
+  height:32px;
+  right:28px;
+  top:129px;
+  width:32px;
+}
+.box-1024 {
+  height:32px;
+  right:28px;
+  top:161px;
+  width:32px;
+}
+.box-1025 {
+  height:32px;
+  right:28px;
+  top:193px;
+  width:32px;
+}
+.box-1026 {
+  height:32px;
+  right:28px;
+  top:225px;
+  width:32px;
+}
+.box-1027 {
+  height:32px;
+  right:28px;
+  top:257px;
+  width:32px;
+}
+.box-1028 {
+  height:32px;
+  right:28px;
+  top:289px;
+  width:32px;
+}
+.floating-image-920 {
+  background-image:url('/static/project/recruit_170214-04.png');
+  background-position:0px 0px;
+  background-size:cover;
+  float:none;
+  height:340px;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-919 {
+  background-color:#043863;
+  float:none;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-content-922 {
+  display:none;
+  letter-spacing:-0.2px;
+  position:relative;
+}
+.text-924 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:15px;
+  letter-spacing:-0.2px;
+  margin-left:0px;
+  margin-top:0px;
+  padding-bottom:10px;
+  padding-left:64px;
+  padding-right:64px;
+  padding-top:10px;
+  position:relative;
+  text-align:left;
+  width:100.00%;
+  width:calc(100% - 128px);
+  width:-moz-calc(100% - 128px);
+  width:-webkit-calc(100% - 128px);
+}
+.collapsible-header-921 {
+  height:60px;
+  position:relative;
+}
+.collapsible-header-item-923 {
+  height:100%;
+  width:100%;
+}
+.text-925 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-926 {
+  -webkit-transform:rotate(90deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(90deg);
+  width:20px;
+}
+.collapsible-header-item-927 {
+  display:none;
+  height:100%;
+  width:100%;
+}
+.text-928 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-929 {
+  -webkit-transform:rotate(270deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(270deg);
+  width:20px;
+}
+.box-1029 {
+  height:32px;
+  right:28px;
+  top:33px;
+  width:32px;
+}
+.box-1030 {
+  height:32px;
+  right:28px;
+  top:65px;
+  width:32px;
+}
+.box-1031 {
+  height:32px;
+  right:28px;
+  top:97px;
+  width:32px;
+}
+.box-1032 {
+  height:32px;
+  right:28px;
+  top:129px;
+  width:32px;
+}
+.box-1033 {
+  height:32px;
+  right:28px;
+  top:161px;
+  width:32px;
+}
+.box-1034 {
+  height:32px;
+  right:28px;
+  top:193px;
+  width:32px;
+}
+.box-1035 {
+  height:32px;
+  right:28px;
+  top:225px;
+  width:32px;
+}
+.box-1036 {
+  height:32px;
+  right:28px;
+  top:257px;
+  width:32px;
+}
+.box-1037 {
+  height:32px;
+  right:28px;
+  top:289px;
+  width:32px;
+}
+.floating-image-945 {
+  background-image:url('/static/project/recruit_170214-05.png');
+  background-position:0px 0px;
+  background-size:cover;
+  float:none;
+  height:340px;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-946 {
+  background-color:#F4F1E8;
+  float:none;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-content-947 {
+  display:none;
+  letter-spacing:-0.2px;
+  position:relative;
+}
+.text-949 {
+  color:#083962;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:15px;
+  letter-spacing:-0.2px;
+  margin-left:0px;
+  margin-top:0px;
+  padding-bottom:10px;
+  padding-left:64px;
+  padding-right:64px;
+  padding-top:10px;
+  position:relative;
+  text-align:left;
+  width:100.00%;
+  width:calc(100% - 128px);
+  width:-moz-calc(100% - 128px);
+  width:-webkit-calc(100% - 128px);
+}
+.collapsible-header-948 {
+  height:60px;
+  position:relative;
+}
+.collapsible-header-item-950 {
+  height:100%;
+  width:100%;
+}
+.text-951 {
+  color:#083962;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-952 {
+  -webkit-transform:rotate(90deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(90deg);
+  width:20px;
+}
+.collapsible-header-item-953 {
+  display:none;
+  height:100%;
+  width:100%;
+}
+.text-954 {
+  color:#083962;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-955 {
+  -webkit-transform:rotate(270deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(270deg);
+  width:20px;
+}
+.box-1038 {
+  height:32px;
+  right:28px;
+  top:33px;
+  width:32px;
+}
+.box-1039 {
+  height:32px;
+  right:28px;
+  top:65px;
+  width:32px;
+}
+.box-1040 {
+  height:32px;
+  right:28px;
+  top:97px;
+  width:32px;
+}
+.box-1041 {
+  height:32px;
+  right:28px;
+  top:129px;
+  width:32px;
+}
+.box-1042 {
+  height:32px;
+  right:28px;
+  top:161px;
+  width:32px;
+}
+.box-1043 {
+  height:32px;
+  right:28px;
+  top:193px;
+  width:32px;
+}
+.box-1044 {
+  height:32px;
+  right:28px;
+  top:225px;
+  width:32px;
+}
+.box-1045 {
+  height:32px;
+  right:28px;
+  top:257px;
+  width:32px;
+}
+.box-1046 {
+  height:32px;
+  right:28px;
+  top:289px;
+  width:32px;
+}
+.floating-image-932 {
+  background-image:url('/static/project/recruit_170214-06.png');
+  background-position:0px 0px;
+  background-size:cover;
+  float:none;
+  height:340px;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-933 {
+  background-color:#043863;
+  float:none;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-content-934 {
+  display:none;
+  letter-spacing:-0.2px;
+  position:relative;
+}
+.text-936 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:15px;
+  letter-spacing:-0.2px;
+  margin-left:0px;
+  margin-top:0px;
+  padding-bottom:10px;
+  padding-left:64px;
+  padding-right:64px;
+  padding-top:10px;
+  position:relative;
+  text-align:left;
+  width:100.00%;
+  width:calc(100% - 128px);
+  width:-moz-calc(100% - 128px);
+  width:-webkit-calc(100% - 128px);
+}
+.collapsible-header-935 {
+  height:60px;
+  position:relative;
+}
+.collapsible-header-item-937 {
+  height:100%;
+  width:100%;
+}
+.text-938 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-939 {
+  -webkit-transform:rotate(90deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(90deg);
+  width:20px;
+}
+.collapsible-header-item-940 {
+  display:none;
+  height:100%;
+  width:100%;
+}
+.text-941 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-942 {
+  -webkit-transform:rotate(270deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(270deg);
+  width:20px;
+}
+.box-1047 {
+  height:32px;
+  right:28px;
+  top:33px;
+  width:32px;
+}
+.box-1048 {
+  height:32px;
+  right:28px;
+  top:65px;
+  width:32px;
+}
+.box-1049 {
+  height:32px;
+  right:28px;
+  top:97px;
+  width:32px;
+}
+.box-1050 {
+  height:32px;
+  right:28px;
+  top:129px;
+  width:32px;
+}
+.box-1051 {
+  height:32px;
+  right:28px;
+  top:161px;
+  width:32px;
+}
+.box-1052 {
+  height:32px;
+  right:28px;
+  top:193px;
+  width:32px;
+}
+.box-1053 {
+  height:32px;
+  right:28px;
+  top:225px;
+  width:32px;
+}
+.box-1054 {
+  height:32px;
+  right:28px;
+  top:257px;
+  width:32px;
+}
+.box-1055 {
+  height:32px;
+  right:28px;
+  top:289px;
+  width:32px;
+}
+.floating-image-958 {
+  background-image:url('/static/project/recruit_170214-07.png');
+  background-position:0px 0px;
+  background-size:cover;
+  float:none;
+  height:340px;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-959 {
+  background-color:#F4F1E8;
+  float:none;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-content-960 {
+  display:none;
+  letter-spacing:-0.2px;
+  position:relative;
+}
+.text-962 {
+  color:#083962;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:15px;
+  letter-spacing:-0.2px;
+  margin-left:0px;
+  margin-top:134px;
+  padding-bottom:10px;
+  padding-left:64px;
+  padding-right:64px;
+  padding-top:10px;
+  position:relative;
+  text-align:left;
+  width:100.00%;
+  width:calc(100% - 128px);
+  width:-moz-calc(100% - 128px);
+  width:-webkit-calc(100% - 128px);
+}
+.collapsible-header-961 {
+  height:60px;
+  position:relative;
+}
+.collapsible-header-item-963 {
+  height:100%;
+  width:100%;
+}
+.text-964 {
+  color:#083962;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-965 {
+  -webkit-transform:rotate(90deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(90deg);
+  width:20px;
+}
+.collapsible-header-item-966 {
+  display:none;
+  height:100%;
+  width:100%;
+}
+.text-967 {
+  color:#083962;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-968 {
+  -webkit-transform:rotate(270deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(270deg);
+  width:20px;
+}
+.box-1056 {
+  height:32px;
+  right:28px;
+  top:33px;
+  width:32px;
+}
+.box-1057 {
+  height:32px;
+  right:28px;
+  top:65px;
+  width:32px;
+}
+.box-1058 {
+  height:32px;
+  right:28px;
+  top:97px;
+  width:32px;
+}
+.box-1059 {
+  height:32px;
+  right:28px;
+  top:129px;
+  width:32px;
+}
+.box-1060 {
+  height:32px;
+  right:28px;
+  top:161px;
+  width:32px;
+}
+.box-1061 {
+  height:32px;
+  right:28px;
+  top:193px;
+  width:32px;
+}
+.box-1062 {
+  height:32px;
+  right:28px;
+  top:225px;
+  width:32px;
+}
+.box-1063 {
+  height:32px;
+  right:28px;
+  top:257px;
+  width:32px;
+}
+.box-1064 {
+  height:32px;
+  right:28px;
+  top:289px;
+  width:32px;
+}
+.floating-image-971 {
+  background-image:url('/static/project/recruit_170214-08.png');
+  background-position:0px 0px;
+  background-size:cover;
+  float:none;
+  height:340px;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-972 {
+  background-color:#043863;
+  float:none;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-content-973 {
+  display:none;
+  letter-spacing:-0.2px;
+  position:relative;
+}
+.text-976 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:15px;
+  letter-spacing:-0.2px;
+  margin-left:-26px;
+  margin-top:72px;
+  padding-bottom:10px;
+  padding-left:64px;
+  padding-right:64px;
+  padding-top:10px;
+  position:relative;
+  text-align:left;
+  width:100.00%;
+  width:calc(100% - 128px);
+  width:-moz-calc(100% - 128px);
+  width:-webkit-calc(100% - 128px);
+}
+.collapsible-header-974 {
+  height:60px;
+  position:relative;
+}
+.collapsible-header-item-976 {
+  height:100%;
+  width:100%;
+}
+.text-977 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-978 {
+  -webkit-transform:rotate(90deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(90deg);
+  width:20px;
+}
+.collapsible-header-item-979 {
+  display:none;
+  height:100%;
+  width:100%;
+}
+.text-980 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-981 {
+  -webkit-transform:rotate(270deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(270deg);
+  width:20px;
+}
+.box-1065 {
+  height:32px;
+  right:28px;
+  top:33px;
+  width:32px;
+}
+.box-1066 {
+  height:32px;
+  right:28px;
+  top:65px;
+  width:32px;
+}
+.box-1067 {
+  height:32px;
+  right:28px;
+  top:97px;
+  width:32px;
+}
+.box-1068 {
+  height:32px;
+  right:28px;
+  top:129px;
+  width:32px;
+}
+.box-1069 {
+  height:32px;
+  right:28px;
+  top:161px;
+  width:32px;
+}
+.box-1070 {
+  height:32px;
+  right:28px;
+  top:193px;
+  width:32px;
+}
+.box-1071 {
+  height:32px;
+  right:28px;
+  top:225px;
+  width:32px;
+}
+.box-1072 {
+  height:32px;
+  right:28px;
+  top:257px;
+  width:32px;
+}
+.box-1073 {
+  height:32px;
+  right:28px;
+  top:289px;
+  width:32px;
+}
+.floating-image-984 {
+  background-image:url('/static/project/recruit_170214-09.png');
+  background-position:0px 0px;
+  background-size:cover;
+  float:none;
+  height:340px;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-985 {
+  background-color:#F4F1E8;
+  float:none;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-content-986 {
+  display:none;
+  letter-spacing:-0.2px;
+  position:relative;
+}
+.text-988 {
+  color:#083962;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:15px;
+  letter-spacing:-0.2px;
+  margin-left:0px;
+  margin-top:0px;
+  padding-bottom:10px;
+  padding-left:64px;
+  padding-right:64px;
+  padding-top:10px;
+  position:relative;
+  text-align:left;
+  width:100.00%;
+  width:calc(100% - 128px);
+  width:-moz-calc(100% - 128px);
+  width:-webkit-calc(100% - 128px);
+}
+.collapsible-header-987 {
+  height:60px;
+  position:relative;
+}
+.collapsible-header-item-989 {
+  height:100%;
+  width:100%;
+}
+.text-990 {
+  color:#083962;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-991 {
+  -webkit-transform:rotate(90deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(90deg);
+  width:20px;
+}
+.collapsible-header-item-992 {
+  display:none;
+  height:100%;
+  width:100%;
+}
+.text-994 {
+  color:#083962;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-994 {
+  -webkit-transform:rotate(270deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(270deg);
+  width:20px;
+}
+.box-1074 {
+  height:32px;
+  right:28px;
+  top:33px;
+  width:32px;
+}
+.box-1075 {
+  height:32px;
+  right:28px;
+  top:65px;
+  width:32px;
+}
+.box-1076 {
+  height:32px;
+  right:28px;
+  top:97px;
+  width:32px;
+}
+.box-1077 {
+  height:32px;
+  right:28px;
+  top:129px;
+  width:32px;
+}
+.box-1078 {
+  height:32px;
+  right:28px;
+  top:161px;
+  width:32px;
+}
+.box-1079 {
+  height:32px;
+  right:28px;
+  top:193px;
+  width:32px;
+}
+.box-1080 {
+  height:32px;
+  right:28px;
+  top:225px;
+  width:32px;
+}
+.box-1081 {
+  height:32px;
+  right:28px;
+  top:257px;
+  width:32px;
+}
+.box-1082 {
+  height:32px;
+  right:28px;
+  top:289px;
+  width:32px;
+}
+.floating-image-997 {
+  background-image:url('/static/project/recruit_170214-10.png');
+  background-position:0px 0px;
+  background-size:cover;
+  float:none;
+  height:340px;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-998 {
+  background-color:#043863;
+  float:none;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.collapsible-content-999 {
+  display:none;
+  letter-spacing:-0.2px;
+  position:relative;
+}
+.text-1001 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:15px;
+  letter-spacing:-0.2px;
+  margin-left:0px;
+  margin-top:0px;
+  padding-bottom:10px;
+  padding-left:64px;
+  padding-right:64px;
+  padding-top:10px;
+  position:relative;
+  text-align:left;
+  width:100.00%;
+  width:calc(100% - 128px);
+  width:-moz-calc(100% - 128px);
+  width:-webkit-calc(100% - 128px);
+}
+.collapsible-header-1000 {
+  height:60px;
+  position:relative;
+}
+.collapsible-header-item-1002 {
+  height:100%;
+  width:100%;
+}
+.text-1003 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-1004 {
+  -webkit-transform:rotate(90deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(90deg);
+  width:20px;
+}
+.collapsible-header-item-1005 {
+  display:none;
+  height:100%;
+  width:100%;
+}
+.text-1006 {
+  color:#D0CCBE;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:100%;
+  left:0px;
+  text-align:center;
+  top:0px;
+  width:100%;
+}
+.svg-1007 {
+  -webkit-transform:rotate(270deg);
+  float:none;
+  height:20px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:20px;
+  transform:rotate(270deg);
+  width:20px;
+}
+.box-1083 {
+  height:32px;
+  right:28px;
+  top:33px;
+  width:32px;
+}
+.box-1084 {
+  height:32px;
+  right:28px;
+  top:65px;
+  width:32px;
+}
+.box-1085 {
+  height:32px;
+  right:28px;
+  top:97px;
+  width:32px;
+}
+.box-1086 {
+  height:32px;
+  right:28px;
+  top:129px;
+  width:32px;
+}
+.box-1087 {
+  height:32px;
+  right:28px;
+  top:161px;
+  width:32px;
+}
+.box-1088 {
+  height:32px;
+  right:28px;
+  top:193px;
+  width:32px;
+}
+.box-1089 {
+  height:32px;
+  right:28px;
+  top:225px;
+  width:32px;
+}
+.box-1090 {
+  height:32px;
+  right:28px;
+  top:257px;
+  width:32px;
+}
+.box-1091 {
+  height:32px;
+  right:28px;
+  top:289px;
+  width:32px;
+}
+.section-1009 {
+  height:1280px;
+}
+.center-box-1010 {
+  background-image:url('/static/project/recruit_170214-13.png');
+  background-size:cover;
+}
+.footer {
+  background-color:#282828;
+  height:300px;
+  left:0px;
+  position:relative;
+  top:0px;
+  width:100%;
+}
+@media screen and (max-width:959px) {
+  .iu-center-box {
+    width:320px;
+  }
+  .header {
+    min-width:320px;
+  }
+  .collapsible-content {
+    display:none;
+  }
+  .svg-452 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .svg {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .collapsible-content-908 {
+    display:none;
+  }
+  .svg-913 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .svg-916 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .collapsible-content-922 {
+    display:none;
+  }
+  .svg-926 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .svg-929 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .collapsible-content-947 {
+    display:none;
+  }
+  .svg-952 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .svg-955 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .collapsible-content-934 {
+    display:none;
+  }
+  .svg-939 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .svg-942 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .collapsible-content-960 {
+    display:none;
+  }
+  .svg-965 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .svg-968 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .collapsible-content-973 {
+    display:none;
+  }
+  .svg-978 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .svg-981 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .collapsible-content-986 {
+    display:none;
+  }
+  .svg-991 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .svg-994 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .collapsible-content-999 {
+    display:none;
+  }
+  .svg-1004 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .svg-1007 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .footer {
+    height:400px;
+  }
+
+}

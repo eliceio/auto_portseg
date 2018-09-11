@@ -1,0 +1,53 @@
+.box-1987 {
+  background-color:#FFFFFF;
+  border-bottom-width:1px;
+  border-color:#E6E6E6;
+  float:none;
+  height:30px;
+  margin-left:0px;
+  margin-top:0px;
+  overflow:visible;
+  padding-bottom:10px;
+  padding-left:30px;
+  padding-right:30px;
+  padding-top:10px;
+  position:relative;
+  width:calc(100% - 60px);
+  width:-moz-calc(100% - 60px);
+  width:-webkit-calc(100% - 60px);
+}
+.text-1989 {
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:1;
+  box-orient:vertical;
+  float:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:3px;
+  overflow:hidden;
+  position:relative;
+  text-align:center;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  width:380px;
+}
+.text-1989 > p {
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.floating-image-2098 {
+  background-image:url('/static/project/btn_close.png');
+  background-position:center center;
+  background-size:contain;
+  height:20px;
+  right:20px;
+  top:15px;
+  width:20px;
+}
+@media screen and (max-width:959px) {
+  .text-1989 {
+    margin-left:auto;
+    margin-right:auto;
+  }
+
+}

@@ -13,18 +13,14 @@ class PathAndRename(object):
 
     def __call__(self, instance, filename):
         now = datetime.datetime.now()
+        name = now.strftime("%Y%m%d%H%M%S_") + filename
 
-        filepath = self.path + now.strftime("/%Y/%m/%d/%H/%M")
-
-        name = filename.split('.')[0]
-        ext = filename.split('.')[-1]
-        filename = '{}.{}'.format(str(now.second) + "_" + name, ext)
-
-        return os.path.join(filepath, filename)
+        return os.path.join(self.path, name)
 
 
 raw_image_upload = PathAndRename("raw_images")
-portrait_upload = PathAndRename("portraits")
+# crop_image_upload = PathAndRename("crop_images")
+# portrait_upload = PathAndRename("portraits")
 
 
 class TimeStampedModel(models.Model):
@@ -43,9 +39,18 @@ class RawImage(TimeStampedModel):
     width_field = models.IntegerField(null=True, default=0)
 
 
+class CropImage(TimeStampedModel):
+    raw_image = models.ForeignKey(RawImage, on_delete=models.CASCADE)
+    image_file = models.ImageField(upload_to='not_used',
+                                   height_field="height_field",
+                                   width_field="width_field")
+    height_field = models.IntegerField(null=True, default=0)
+    width_field = models.IntegerField(null=True, default=0)
+
+
 class Portrait(TimeStampedModel):
     raw_image = models.ForeignKey(RawImage, on_delete=models.CASCADE)
-    image_file = models.ImageField(upload_to=portrait_upload,
+    image_file = models.ImageField(upload_to='not_used',
                                    height_field="height_field",
                                    width_field="width_field")
     height_field = models.IntegerField(null=True, default=0)

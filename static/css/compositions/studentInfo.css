@@ -1,0 +1,633 @@
+.pg-form-1851 {
+  border-bottom-width:1px;
+  border-color:#FA690A;
+  border-style:dashed;
+  float:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:0px;
+  padding-bottom:80px;
+  padding-top:60px;
+  position:relative;
+  width:960px;
+}
+.profile_child_title-1853 {
+  color:#FA690A;
+  float:none;
+  font-family:'Nanum Gothic', sans-serif;
+  font-size:20px;
+  font-weight:700;
+  margin-left:auto;
+  margin-right:auto;
+  position:relative;
+  text-align:center;
+  width:100%;
+}
+.box-1852 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:32px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+  position:relative;
+  width:680px;
+}
+.text-1856 {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:150px;
+}
+.student_name-1860 {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:200px;
+}
+.box-1854 {
+  border-radius:2px;
+  color:#323232;
+  display:none;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:32px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:680px;
+}
+.text-1858 {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:150px;
+}
+.student_id-1862 {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:200px;
+}
+.box-1855 {
+  border-radius:2px;
+  color:#323232;
+  display:none;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:32px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:680px;
+}
+.pw_check-1859 {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:150px;
+}
+.pg-text-field-1863 {
+  background-color:#FFFFFF;
+  border-color:#E6E6E6;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:30px;
+  margin-left:10px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  width:200px;
+}
+.box-1857 {
+  border-radius:2px;
+  color:#323232;
+  display:none;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:32px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:680px;
+}
+.newpw-1861 {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:150px;
+}
+.pg-text-field-1865 {
+  background-color:#FFFFFF;
+  border-color:#E6E6E6;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  width:200px;
+}
+.text-1868 {
+  color:#FA690A;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:12px;
+  font-weight:300;
+  height:20px;
+  margin-left:12px;
+  margin-top:6px;
+  position:relative;
+  width:290px;
+}
+.box-1864 {
+  border-radius:2px;
+  color:#323232;
+  display:none;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:32px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:680px;
+}
+.newpw_confirm-1869 {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:150px;
+}
+.pg-text-field-1873 {
+  background-color:#FFFFFF;
+  border-color:#E6E6E6;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  width:200px;
+}
+.text-1877 {
+  color:#FA690A;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:12px;
+  font-weight:300;
+  height:20px;
+  margin-left:12px;
+  margin-top:6px;
+  position:relative;
+  width:290px;
+}
+.box-1866 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:32px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:680px;
+}
+.text-1870 {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:150px;
+}
+.pg-radio-button-1874 {
+  float:left;
+  height:32px;
+  margin-left:10px;
+  position:relative;
+  width:24px;
+}
+.text-1878 {
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:20px;
+  margin-left:5px;
+  margin-top:6px;
+  position:relative;
+  width:75px;
+}
+.pg-radio-button-1882 {
+  float:left;
+  height:32px;
+  margin-left:10px;
+  margin-top:0px;
+  position:relative;
+  width:24px;
+}
+.text-1884 {
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:20px;
+  margin-left:5px;
+  margin-top:6px;
+  position:relative;
+  width:75px;
+}
+.box-1867 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:32px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:680px;
+}
+.text-1871 {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:150px;
+}
+.pg-text-field-1875 {
+  background-color:#FFFFFF;
+  border-color:#E6E6E6;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  width:200px;
+}
+.box-1872 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:32px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:680px;
+}
+.text-1876 {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:150px;
+}
+.student_birthday-1881 {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:200px;
+}
+.box-1879 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:680px;
+}
+.text-1883 {
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:100%;
+}
+.pg-text-view-1885 {
+  background-color:#FFFFFF;
+  border-color:#E6E6E6;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:80px;
+  line-height:1.30;
+  margin-left:0px;
+  margin-top:10px;
+  padding:8px;
+  position:relative;
+  text-align:left;
+  width:662px;
+}
+.box-2955 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:680px;
+}
+.text-2956 {
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:100%;
+}
+.pg-text-view-2957 {
+  background-color:#FFFFFF;
+  border-color:#E6E6E6;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:80px;
+  line-height:1.30;
+  margin-left:0px;
+  margin-top:10px;
+  padding:8px;
+  position:relative;
+  text-align:left;
+  width:662px;
+}
+.pg-button-1880 {
+  -webkit-transition:background-color 0.4s;
+  background-color:#FA690A;
+  border-radius:4px;
+  border-width:0px;
+  color:#FFFFFF;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  height:38px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+  position:relative;
+  transition:background-color 0.4s;
+  width:310px;
+}
+.pg-button-1880.iux-hover, .pg-button-1880.iux-active {
+  background-color:rgba(250,105,10,0.80);
+}
+@media screen and (max-width:959px) {
+  .pg-form-1851 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0px;
+    padding-bottom:52px;
+    padding-top:40px;
+    width:300px;
+  }
+  .profile_child_title-1853 {
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .box-1852 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:28px;
+    width:300px;
+  }
+  .text-1856 {
+    width:100px;
+  }
+  .student_name-1860 {
+    margin-left:10px;
+    margin-top:0px;
+    width:172px;
+  }
+  .box-1854 {
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .box-1855 {
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .box-1857 {
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .box-1864 {
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .box-1866 {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
+  .text-1870 {
+    width:100px;
+  }
+  .text-1878 {
+    width:61px;
+  }
+  .text-1884 {
+    width:61px;
+  }
+  .box-1867 {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
+  .text-1871 {
+    width:100px;
+  }
+  .pg-text-field-1875 {
+    margin-left:10px;
+    width:172px;
+  }
+  .box-1872 {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
+  .text-1876 {
+    width:100px;
+  }
+  .student_birthday-1881 {
+    width:172px;
+  }
+  .box-1879 {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
+  .text-1883 {
+    margin-left:0px;
+    margin-top:6px;
+  }
+  .pg-text-view-1885 {
+    margin-left:0px;
+    margin-top:10px;
+    width:282px;
+  }
+  .box-2955 {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
+  .text-2956 {
+    margin-left:0px;
+    margin-top:6px;
+  }
+  .pg-text-view-2957 {
+    margin-left:0px;
+    margin-top:10px;
+    width:282px;
+  }
+  .pg-button-1880 {
+    height:36px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:28px;
+    width:200px;
+  }
+
+}

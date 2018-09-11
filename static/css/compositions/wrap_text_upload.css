@@ -1,0 +1,38 @@
+.text_upload {
+  float:none;
+  margin-left:0px;
+  margin-top:0px;
+  padding-bottom:10px;
+  padding-top:10px;
+  position:relative;
+}
+.pg-text-view-2034 {
+  background-color:#FFFFFF;
+  border-color:#E6E6E6;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:300;
+  margin-left:0px;
+  margin-top:0px;
+  padding:30px;
+  position:relative;
+  text-align:left;
+  width:calc(100% - 62px);
+  width:-moz-calc(100% - 62px);
+  width:-webkit-calc(100% - 62px);
+}
+@media screen and (max-width:959px) {
+  .pg-text-view-2034 {
+    margin-left:0px;
+    margin-top:0px;
+    padding:10px;
+    width:calc(100% - 22px);
+    width:-moz-calc(100% - 22px);
+    width:-webkit-calc(100% - 22px);
+  }
+
+}

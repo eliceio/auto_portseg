@@ -1,0 +1,2195 @@
+.iu-center-box {
+  width:960px;
+}
+.header {
+  -webkit-box-shadow:0px 2px 0px 0px #DBDBDB;
+  background-color:#FFFFFF;
+  box-shadow:0px 2px 0px 0px #DBDBDB;
+  color:#333333;
+  float:none;
+  height:60px;
+  left:0px;
+  overflow:visible;
+  position:fixed;
+  top:0px;
+  width:100%;
+  z-index:11;
+}
+.page-content {
+  background-color:#FFFFFF;
+}
+.section {
+  background-color:#F5F5F5;
+  border-bottom-width:1px;
+  border-color:#FA690A;
+  border-style:dashed;
+  padding-bottom:60px;
+}
+.center-box {
+  overflow:visible;
+}
+.featuredprojects {
+  color:#FA690A;
+  float:none;
+  font-family:Bariol;
+  font-size:36px;
+  font-weight:700;
+  line-height:1;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:120px;
+  position:relative;
+  text-align:center;
+  width:100%;
+}
+.carousel > .iux-carousel-prev {
+  background-image:url('/static/project/ar2.png');
+  height:26px;
+  left:0px;
+  top:180px;
+  width:26px;
+}
+.carousel > .iux-carousel-pager {
+  visibility:hidden;
+}
+.carousel {
+  float:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+  overflow:hidden;
+  position:relative;
+  width:1020px;
+}
+.carousel > .iux-carousel-prev,.carousel > .iux-carousel-next {
+  display:inherit;
+}
+.carousel > .iux-carousel-next {
+  background-image:url('/static/project/ar1.png');
+  height:26px;
+  right:0px;
+  top:180px;
+  width:26px;
+}
+.carousel-item {
+  height:100%;
+  position:relative;
+}
+.box {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:45px;
+  margin-top:0px;
+  position:relative;
+  width:298px;
+}
+.floating-image {
+  background-image:url('/static/project/ex_project_1.jpg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:298px;
+  position:relative;
+  width:298px;
+}
+.box-147 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:298px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-151 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-152 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-134 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-140 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-147 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img {
+  background-image:url('/static/project/member_SeyoungPark.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:260px;
+  width:70px;
+}
+.cell {
+  -webkit-transform:rotate(-45deg);
+  background-color:#A0D228;
+  color:#FFFFFF;
+  font-family:Bariol;
+  font-size:14px;
+  font-weight:700;
+  height:24px;
+  left:-40px;
+  line-height:24px;
+  text-align:center;
+  top:20px;
+  transform:rotate(-45deg);
+  width:140px;
+}
+.box-142 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:15px;
+  margin-top:0px;
+  position:relative;
+  width:298px;
+}
+.floating-image-143 {
+  background-image:url('/static/project/ex_project_2.jpeg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:298px;
+  position:relative;
+  width:298px;
+}
+.box-144 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:298px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-147 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-153 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-145 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-148 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-150 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-146 {
+  background-image:url('/static/project/member_SeyoungPark.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:260px;
+  width:70px;
+}
+.cell-352 {
+  -webkit-transform:rotate(-45deg);
+  background-color:#50A0F0;
+  color:#FFFFFF;
+  font-family:Bariol;
+  font-size:14px;
+  font-weight:700;
+  height:24px;
+  left:-40px;
+  line-height:24px;
+  text-align:center;
+  top:20px;
+  transform:rotate(-45deg);
+  width:140px;
+}
+.box-154 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:15px;
+  margin-top:0px;
+  position:relative;
+  width:298px;
+}
+.floating-image-155 {
+  background-image:url('/static/project/ex_project_3.jpg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:298px;
+  position:relative;
+  width:298px;
+}
+.box-157 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:298px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-160 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-163 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-165 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-156 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-159 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-161 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-158 {
+  background-image:url('/static/project/member_SeyoungPark.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:260px;
+  width:70px;
+}
+.cell-353 {
+  -webkit-transform:rotate(-45deg);
+  background-color:#F076B4;
+  color:#FFFFFF;
+  font-family:Bariol;
+  font-size:14px;
+  font-weight:700;
+  height:24px;
+  left:-40px;
+  line-height:24px;
+  text-align:center;
+  top:20px;
+  transform:rotate(-45deg);
+  width:140px;
+}
+.carousel-item-129 {
+  height:100%;
+  position:relative;
+}
+.box-166 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:45px;
+  margin-top:0px;
+  position:relative;
+  width:298px;
+}
+.floating-image-167 {
+  background-image:url('/static/project/ex_project_1.jpg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:298px;
+  position:relative;
+  width:298px;
+}
+.box-168 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:298px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-171 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-175 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-177 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-169 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-172 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-177 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-170 {
+  background-image:url('/static/project/member_SeyoungPark.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:260px;
+  width:70px;
+}
+.cell-357 {
+  -webkit-transform:rotate(-45deg);
+  background-color:#A0D228;
+  color:#FFFFFF;
+  font-family:Bariol;
+  font-size:14px;
+  font-weight:700;
+  height:24px;
+  left:-40px;
+  line-height:24px;
+  text-align:center;
+  top:20px;
+  transform:rotate(-45deg);
+  width:140px;
+}
+.box-178 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:15px;
+  margin-top:0px;
+  position:relative;
+  width:298px;
+}
+.floating-image-179 {
+  background-image:url('/static/project/ex_project_2.jpeg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:298px;
+  position:relative;
+  width:298px;
+}
+.box-180 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:298px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-183 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-187 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-189 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-182 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-184 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-186 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-181 {
+  background-image:url('/static/project/member_SeyoungPark.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:260px;
+  width:70px;
+}
+.cell-359 {
+  -webkit-transform:rotate(-45deg);
+  background-color:#50A0F0;
+  color:#FFFFFF;
+  font-family:Bariol;
+  font-size:14px;
+  font-weight:700;
+  height:24px;
+  left:-40px;
+  line-height:24px;
+  text-align:center;
+  top:20px;
+  transform:rotate(-45deg);
+  width:140px;
+}
+.box-190 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:15px;
+  margin-top:0px;
+  position:relative;
+  width:298px;
+}
+.floating-image-191 {
+  background-image:url('/static/project/ex_project_3.jpg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:298px;
+  position:relative;
+  width:298px;
+}
+.box-192 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:298px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-195 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-199 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-201 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-193 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-196 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-198 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-194 {
+  background-image:url('/static/project/member_SeyoungPark.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:260px;
+  width:70px;
+}
+.cell-358 {
+  -webkit-transform:rotate(-45deg);
+  background-color:#F076B4;
+  color:#FFFFFF;
+  font-family:Bariol;
+  font-size:14px;
+  font-weight:700;
+  height:24px;
+  left:-40px;
+  line-height:24px;
+  text-align:center;
+  top:20px;
+  transform:rotate(-45deg);
+  width:140px;
+}
+.carousel-item-130 {
+  height:100%;
+  position:relative;
+}
+.box-202 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:45px;
+  margin-top:0px;
+  position:relative;
+  width:298px;
+}
+.floating-image-203 {
+  background-image:url('/static/project/ex_project_1.jpg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:298px;
+  position:relative;
+  width:298px;
+}
+.box-204 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:298px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-208 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-211 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-213 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-205 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-207 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-209 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-206 {
+  background-image:url('/static/project/member_SeyoungPark.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:260px;
+  width:70px;
+}
+.cell-360 {
+  -webkit-transform:rotate(-45deg);
+  background-color:#A0D228;
+  color:#FFFFFF;
+  font-family:Bariol;
+  font-size:14px;
+  font-weight:700;
+  height:24px;
+  left:-40px;
+  line-height:24px;
+  text-align:center;
+  top:20px;
+  transform:rotate(-45deg);
+  width:140px;
+}
+.box-214 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:15px;
+  margin-top:0px;
+  position:relative;
+  width:298px;
+}
+.floating-image-215 {
+  background-image:url('/static/project/ex_project_2.jpeg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:298px;
+  position:relative;
+  width:298px;
+}
+.box-216 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:298px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-219 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-223 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-225 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-217 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-220 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-222 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-218 {
+  background-image:url('/static/project/member_SeyoungPark.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:260px;
+  width:70px;
+}
+.cell-362 {
+  -webkit-transform:rotate(-45deg);
+  background-color:#50A0F0;
+  color:#FFFFFF;
+  font-family:Bariol;
+  font-size:14px;
+  font-weight:700;
+  height:24px;
+  left:-40px;
+  line-height:24px;
+  text-align:center;
+  top:20px;
+  transform:rotate(-45deg);
+  width:140px;
+}
+.box-226 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:15px;
+  margin-top:0px;
+  position:relative;
+  width:298px;
+}
+.floating-image-227 {
+  background-image:url('/static/project/ex_project_3.jpg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:298px;
+  position:relative;
+  width:298px;
+}
+.box-228 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:298px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-231 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-235 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-237 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-229 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-232 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-234 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-230 {
+  background-image:url('/static/project/member_SeyoungPark.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:260px;
+  width:70px;
+}
+.cell-361 {
+  -webkit-transform:rotate(-45deg);
+  background-color:#F076B4;
+  color:#FFFFFF;
+  font-family:Bariol;
+  font-size:14px;
+  font-weight:700;
+  height:24px;
+  left:-40px;
+  line-height:24px;
+  text-align:center;
+  top:20px;
+  transform:rotate(-45deg);
+  width:140px;
+}
+.section-123 {
+  padding-bottom:80px;
+}
+.allprojects {
+  color:#FA690A;
+  float:none;
+  font-family:Bariol;
+  font-size:36px;
+  font-weight:700;
+  line-height:1;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:60px;
+  position:relative;
+  text-align:center;
+  width:100%;
+}
+.box-239 {
+  float:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:10px;
+  position:relative;
+  width:930px;
+}
+.box-240 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-top:30px;
+  position:relative;
+  width:298px;
+}
+.box-240 > .iux-inner-link {
+  position:relative;
+}
+.floating-image-240 {
+  background-image:url('/static/project/ex_project_4.jpeg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:198px;
+  position:relative;
+  width:298px;
+}
+.box-241 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:198px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-244 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-248 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-250 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-242 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-245 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-247 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-243 {
+  background-image:url('/static/project/member_DavidSong.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:160px;
+  width:70px;
+}
+.box-251 > .iux-inner-link {
+  position:relative;
+}
+.box-251 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:15px;
+  margin-top:30px;
+  position:relative;
+  width:298px;
+}
+.floating-image-252 {
+  background-image:url('/static/project/ex_project_5.jpeg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:198px;
+  position:relative;
+  width:298px;
+}
+.box-253 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:198px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-257 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-260 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-262 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-254 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-256 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-258 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-255 {
+  background-image:url('/static/project/member_HyunchulLim.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:160px;
+  width:70px;
+}
+.box-263 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:15px;
+  margin-top:30px;
+  position:relative;
+  width:298px;
+}
+.box-263 > .iux-inner-link {
+  position:relative;
+}
+.floating-image-264 {
+  background-image:url('/static/project/ex_project_6.jpg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:198px;
+  position:relative;
+  width:298px;
+}
+.box-265 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:198px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-268 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-272 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-274 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-266 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-269 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-271 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-267 {
+  background-image:url('/static/project/member_JamesLee.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:160px;
+  width:70px;
+}
+.cell-355 {
+  -webkit-transform:rotate(-45deg);
+  background-color:#F076B4;
+  color:#FFFFFF;
+  font-family:Bariol;
+  font-size:14px;
+  font-weight:700;
+  height:24px;
+  left:-40px;
+  line-height:24px;
+  text-align:center;
+  top:20px;
+  transform:rotate(-45deg);
+  width:140px;
+}
+.box-275 > .iux-inner-link {
+  position:relative;
+}
+.box-275 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-top:30px;
+  position:relative;
+  width:298px;
+}
+.floating-image-276 {
+  background-image:url('/static/project/ex_project_7.jpg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:198px;
+  position:relative;
+  width:298px;
+}
+.box-277 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:198px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-280 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-284 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-286 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-278 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-281 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-283 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-279 {
+  background-image:url('/static/project/member_JueunPark.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:160px;
+  width:70px;
+}
+.box-287 > .iux-inner-link {
+  position:relative;
+}
+.box-287 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:15px;
+  margin-top:30px;
+  position:relative;
+  width:298px;
+}
+.floating-image-288 {
+  background-image:url('/static/project/ex_project_8.jpg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:198px;
+  position:relative;
+  width:298px;
+}
+.box-289 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:198px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-293 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-296 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-298 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.cell-356 {
+  -webkit-transform:rotate(-45deg);
+  background-color:#50A0F0;
+  color:#FFFFFF;
+  font-family:Bariol;
+  font-size:14px;
+  font-weight:700;
+  height:24px;
+  left:-40px;
+  line-height:24px;
+  text-align:center;
+  top:20px;
+  transform:rotate(-45deg);
+  width:140px;
+}
+.box-290 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-292 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-294 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-291 {
+  background-image:url('/static/project/member_JihongShim.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:160px;
+  width:70px;
+}
+.box-299 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:15px;
+  margin-top:30px;
+  position:relative;
+  width:298px;
+}
+.box-299 > .iux-inner-link {
+  position:relative;
+}
+.floating-image-300 {
+  background-image:url('/static/project/ex_project_1.jpg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:198px;
+  position:relative;
+  width:298px;
+}
+.box-301 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:198px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-304 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-308 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-310 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-303 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-305 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-307 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-302 {
+  background-image:url('/static/project/member_JiyoonWoo.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:160px;
+  width:70px;
+}
+.box-316 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-top:30px;
+  position:relative;
+  width:298px;
+}
+.box-316 > .iux-inner-link {
+  position:relative;
+}
+.floating-image-316 {
+  background-image:url('/static/project/ex_project_2.jpeg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:198px;
+  position:relative;
+  width:298px;
+}
+.box-317 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:198px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-320 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-324 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-326 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-319 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-321 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-323 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-318 {
+  background-image:url('/static/project/member_JueunPark.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:160px;
+  width:70px;
+}
+.box-327 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:15px;
+  margin-top:30px;
+  position:relative;
+  width:298px;
+}
+.box-327 > .iux-inner-link {
+  position:relative;
+}
+.floating-image-328 {
+  background-image:url('/static/project/ex_project_3.jpg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:198px;
+  position:relative;
+  width:298px;
+}
+.box-330 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:198px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-333 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-336 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-338 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-329 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-332 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-334 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-331 {
+  background-image:url('/static/project/member_JihongShim.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:160px;
+  width:70px;
+}
+.box-339 > .iux-inner-link {
+  position:relative;
+}
+.box-339 {
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:left;
+  margin-left:15px;
+  margin-top:30px;
+  position:relative;
+  width:298px;
+}
+.floating-image-340 {
+  background-image:url('/static/project/ex_project_4.jpeg');
+  background-position:center center;
+  background-size:cover;
+  float:none;
+  height:198px;
+  position:relative;
+  width:298px;
+}
+.box-342 {
+  background:linear-gradient(to bottom, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  background:-webkit-linear-gradient(top, rgba(0,0,0,0.00) 30%, rgba(50,50,50,0.20));
+  height:198px;
+  left:0px;
+  top:0px;
+  width:298px;
+}
+.like-345 {
+  bottom:10px;
+  height:30px;
+  right:10px;
+  width:30px;
+}
+.svg-348 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.svg-350 {
+  float:none;
+  height:30px;
+  left:0px;
+  top:0px;
+  width:30px;
+}
+.box-341 {
+  background-color:rgba(255,255,255,0.90);
+  float:none;
+  height:120px;
+  position:relative;
+  width:100%;
+}
+.text-344 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:68px;
+  width:240px;
+}
+.text-346 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  text-align:center;
+  top:42px;
+  width:240px;
+}
+.profile_img-343 {
+  background-image:url('/static/project/member_JiyoonWoo.png');
+  background-position:center center;
+  background-size:contain;
+  border-color:#FA690A;
+  border-radius:50%;
+  border-width:1px;
+  float:none;
+  height:70px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:160px;
+  width:70px;
+}
+.box-314 {
+  float:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+  position:relative;
+  width:930px;
+}
+.pg-page-link-set selected > div > ul > a > li, .pg-page-link-set > div > ul > a > li:hover {
+  background-color:transparent;
+}
+.pg-page-link-set > div {
+  margin:auto;
+  text-align:center;
+}
+.pg-page-link-set > div > ul > a > li {
+  background-color:rgba(109,109,109,0.10);
+  display:block;
+  height:30px;
+  line-height:30px;
+  margin-left:4px;
+  margin-right:4px;
+  width:30px;
+}
+.pg-page-link-set {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:1px;
+  width:930px;
+}
+.pg-page-link-set > div > ul {
+  display:inline-block;
+}
+.box-315 {
+  background-color:#FA690A;
+  border-radius:2px;
+  float:right;
+  height:32px;
+  margin-right:0px;
+  margin-top:0px;
+  position:relative;
+  right:0px;
+  width:52px;
+}
+.search_project {
+  background-color:#FFFFFF;
+  border-color:#E6E6E6;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:right;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:30px;
+  margin-right:0px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  right:0px;
+  width:180px;
+}
+.footer {
+  background-color:#282828;
+  height:200px;
+  left:0px;
+  position:relative;
+  top:0px;
+  width:100%;
+}

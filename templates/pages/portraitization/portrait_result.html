@@ -13,7 +13,8 @@
                 <p id="img img-p">It is your portrait.</p>
             </div>
             {% if portrait_image %}
-                <img class="portrait_img" src="{{ portrait_image }}">
+{#                <img class="portrait_img" src="{{ portrait_image }}">#}
+                <p>{{ portrait_image }}</p>
             {% else %}
                 <p>Upload the valid image!</p>
             {% endif %}

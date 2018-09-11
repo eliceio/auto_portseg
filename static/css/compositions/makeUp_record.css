@@ -1,0 +1,113 @@
+.box-1779 {
+  background-color:#FFFFFF;
+  border-bottom-width:1px;
+  border-color:#E6E6E6;
+  float:none;
+  height:30px;
+  margin-left:0px;
+  margin-top:0px;
+  overflow:visible;
+  padding-bottom:10px;
+  padding-left:30px;
+  padding-right:30px;
+  padding-top:10px;
+  position:relative;
+  width:calc(100% - 60px);
+  width:-moz-calc(100% - 60px);
+  width:-webkit-calc(100% - 60px);
+}
+.text-1754 {
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:1;
+  box-orient:vertical;
+  float:left;
+  margin-left:3px;
+  margin-top:3px;
+  overflow:hidden;
+  position:relative;
+  text-align:center;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  width:400px;
+}
+.text-1754 > p {
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.text-1755 {
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:1;
+  box-orient:vertical;
+  float:right;
+  margin-right:30px;
+  margin-top:3px;
+  overflow:hidden;
+  position:relative;
+  right:0px;
+  text-align:center;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+  width:400px;
+}
+.text-1755 > p {
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.svg-1989 {
+  bottom:0px;
+  float:none;
+  height:20px;
+  left:440px;
+  margin-bottom:auto;
+  margin-top:auto;
+  top:0px;
+  width:20px;
+}
+.floating-image-2097 {
+  background-image:url('/static/project/btn_close.png');
+  background-position:center center;
+  background-size:contain;
+  height:20px;
+  right:20px;
+  top:15px;
+  width:20px;
+}
+@media screen and (max-width:959px) {
+  .box-1779 {
+    font-size:14px;
+    height:72px;
+    margin-left:0px;
+    margin-top:0px;
+    padding:15px;
+    width:calc(100% - 30px);
+    width:-moz-calc(100% - 30px);
+    width:-webkit-calc(100% - 30px);
+  }
+  .text-1754 {
+    margin-left:0px;
+    margin-top:0px;
+    width:220px;
+  }
+  .text-1755 {
+    float:left;
+    margin-left:0px;
+    margin-right:initial;
+    margin-right:auto;
+    margin-top:30px;
+    width:270px;
+  }
+  .svg-1989 {
+    -webkit-transform:rotate(90deg);
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+    top:1px;
+    transform:rotate(90deg);
+  }
+  .floating-image-2097 {
+    right:15px;
+    top:15px;
+  }
+
+}

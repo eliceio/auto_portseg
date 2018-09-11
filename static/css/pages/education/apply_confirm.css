@@ -1,0 +1,889 @@
+.iu-center-box {
+  width:960px;
+}
+.header {
+  -webkit-box-shadow:0px 2px 0px 0px #DBDBDB;
+  background-color:#FFFFFF;
+  box-shadow:0px 2px 0px 0px #DBDBDB;
+  color:#333333;
+  float:none;
+  height:60px;
+  left:0px;
+  min-width:960px;
+  overflow:visible;
+  position:fixed;
+  top:0px;
+  width:100%;
+  z-index:10;
+}
+.page-content {
+  padding-top:62px;
+}
+.section {
+  background-color:#F5F5F5;
+  padding-bottom:80px;
+  padding-top:60px;
+}
+.confirm_box {
+  background-color:#FFFFFF;
+  border-bottom-width:2px;
+  border-color:#E6E6E6;
+  border-left-width:1px;
+  border-radius:2px;
+  border-right-width:1px;
+  border-top-width:1px;
+  float:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:0px;
+  padding-bottom:80px;
+  padding-top:60px;
+  position:relative;
+  width:680px;
+}
+.confirm_title {
+  color:#FA690A;
+  float:none;
+  font-family:'Nanum Gothic', sans-serif;
+  font-size:20px;
+  font-weight:700;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:0px;
+  position:relative;
+  text-align:center;
+  width:100%;
+}
+.box {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+  position:relative;
+  width:540px;
+}
+.semester_text {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:120px;
+}
+.semester {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:382px;
+}
+.box-226 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:540px;
+}
+.duration_text {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:120px;
+}
+.duration {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:382px;
+}
+.box-207 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:540px;
+}
+.campus_text {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:120px;
+}
+.campus {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:382px;
+}
+.box-203 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:540px;
+}
+.class_name_text {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:120px;
+}
+.class_name {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#FA690A;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:382px;
+}
+.box-206 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:540px;
+}
+.class_time_text {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:120px;
+}
+.class_time {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#FA690A;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:382px;
+}
+.box-209 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:540px;
+}
+.student_text {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:120px;
+}
+.student {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:382px;
+}
+.box-232 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:540px;
+}
+.tuition_text {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:120px;
+}
+.tuition {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:382px;
+}
+.box-235 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:540px;
+}
+.payment_text {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:120px;
+}
+.payment {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:382px;
+}
+.box-221 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:540px;
+}
+.card_text {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:120px;
+}
+.card {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:382px;
+}
+.visit_info {
+  background-color:rgba(250,105,10,0.10);
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  padding-bottom:10px;
+  padding-left:20px;
+  padding-right:20px;
+  padding-top:10px;
+  position:relative;
+  width:500px;
+}
+.box-224 {
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  width:540px;
+}
+.account_text {
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:400;
+  height:20px;
+  margin-left:0px;
+  margin-top:6px;
+  position:relative;
+  width:120px;
+}
+.account {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:382px;
+}
+.account-468 {
+  border-color:transparent;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  display:none;
+  float:left;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  height:30px;
+  line-height:30px;
+  margin-left:10px;
+  margin-top:0px;
+  padding-left:8px;
+  padding-right:8px;
+  position:relative;
+  text-align:left;
+  width:382px;
+}
+.transfer_info {
+  background-color:rgba(250,105,10,0.10);
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  padding-bottom:10px;
+  padding-left:20px;
+  padding-right:20px;
+  padding-top:10px;
+  position:relative;
+  width:500px;
+}
+.warning {
+  background-color:#F5F5F5;
+  border-radius:2px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  padding-bottom:10px;
+  padding-left:20px;
+  padding-right:20px;
+  padding-top:10px;
+  position:relative;
+  text-align:center;
+  width:500px;
+}
+.cell {
+  background-color:#F5F5F5;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  height:40px;
+  line-height:40px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:10px;
+  position:relative;
+  text-align:center;
+  width:540px;
+}
+.box-520 {
+  float:none;
+  height:20px;
+  position:relative;
+}
+.pg-button {
+  -webkit-transition:background-color 0.4s;
+  background-color:#FA690A;
+  border-radius:4px;
+  border-width:0px;
+  color:#FFFFFF;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  height:36px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  transition:background-color 0.4s;
+  width:280px;
+}
+.pg-button.iux-hover, .pg-button.iux-active {
+  background-color:rgba(250,105,10,0.80);
+}
+.pg-button-248 {
+  -webkit-transition:background-color 0.4s;
+  background-color:#6D6D6D;
+  border-radius:4px;
+  border-width:0px;
+  color:#FFFFFF;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  height:36px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  transition:background-color 0.4s;
+  width:280px;
+}
+.pg-button-248.iux-hover, .pg-button-248.iux-active {
+  background-color:rgba(109,109,109,0.80);
+}
+.pg-button-933 {
+  -webkit-transition:background-color 0.4s;
+  background-color:#FA690A;
+  border-radius:4px;
+  border-width:0px;
+  color:#FFFFFF;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  height:36px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  transition:background-color 0.4s;
+  width:280px;
+}
+.pg-button-933.iux-hover, .pg-button-933.iux-active {
+  background-color:rgba(250,105,10,0.80);
+}
+.footer {
+  background-color:#282828;
+  height:300px;
+  left:0px;
+  position:relative;
+  top:0px;
+  width:100%;
+}
+.popup-login {
+  background-color:#FFFFFF;
+  border-radius:2px;
+  height:422px;
+  position:fixed;
+  width:400px;
+  z-index:100;
+}
+.popup-login > .iux-popup-close-button {
+  background-image:url('/static/project/btn_close.png');
+  display:inherit;
+  height:30px;
+  position:absolute;
+  right:12px;
+  top:15px;
+  width:30px;
+}
+.popup-login-dimcolor {
+  background-color:rgba(0,0,0,0.60);
+  z-index:99;
+}
+.import {
+  left:0px;
+  top:0px;
+  width:400px;
+}
+.popup-findpw {
+  background-color:#FFFFFF;
+  border-radius:2px;
+  height:522px;
+  position:fixed;
+  width:400px;
+  z-index:100;
+}
+.popup-findpw > .iux-popup-close-button {
+  background-image:url('/static/project/btn_close.png');
+  display:inherit;
+  height:30px;
+  position:absolute;
+  right:12px;
+  top:15px;
+  width:30px;
+}
+.popup-findpw-dimcolor {
+  background-color:rgba(0,0,0,0.60);
+  z-index:99;
+}
+.import-361 {
+  width:400px;
+}
+@media screen and (max-width:959px) {
+  .iu-center-box {
+    width:320px;
+  }
+  .header {
+    min-width:320px;
+  }
+  .section {
+    background-color:#FFFFFF;
+    padding:0px;
+  }
+  .confirm_box {
+    border-width:0px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0px;
+    padding-bottom:52px;
+    padding-top:40px;
+    width:320px;
+  }
+  .confirm_title {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0px;
+  }
+  .box {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:28px;
+    width:300px;
+  }
+  .semester_text {
+    width:100px;
+  }
+  .semester {
+    margin-left:10px;
+    margin-top:0px;
+    width:172px;
+  }
+  .box-226 {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
+  .duration_text {
+    width:100px;
+  }
+  .duration {
+    margin-left:10px;
+    margin-top:0px;
+    width:172px;
+  }
+  .box-207 {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
+  .campus_text {
+    width:100px;
+  }
+  .campus {
+    width:172px;
+  }
+  .box-203 {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
+  .class_name_text {
+    width:100px;
+  }
+  .class_name {
+    width:172px;
+  }
+  .box-206 {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
+  .class_time_text {
+    width:100px;
+  }
+  .class_time {
+    width:172px;
+  }
+  .box-209 {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
+  .student_text {
+    width:100px;
+  }
+  .student {
+    width:172px;
+  }
+  .box-232 {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
+  .tuition_text {
+    width:100px;
+  }
+  .tuition {
+    width:172px;
+  }
+  .box-235 {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
+  .payment_text {
+    width:100px;
+  }
+  .payment {
+    width:172px;
+  }
+  .box-221 {
+    margin-left:auto;
+    margin-right:auto;
+    width:300px;
+  }
+  .card_text {
+    width:100px;
+  }
+  .card {
+    width:172px;
+  }
+  .visit_info {
+    margin-left:auto;
+    margin-right:auto;
+    width:260px;
+  }
+  .box-224 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:20px;
+    width:300px;
+  }
+  .account_text {
+    width:100px;
+  }
+  .account {
+    width:172px;
+  }
+  .account-468 {
+    display:inherit;
+    margin-left:110px;
+    margin-top:0px;
+    width:172px;
+  }
+  .transfer_info {
+    margin-left:auto;
+    margin-right:auto;
+    width:260px;
+  }
+  .warning {
+    margin-left:auto;
+    margin-right:auto;
+    width:260px;
+  }
+  .cell {
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .pg-button {
+    margin-left:auto;
+    margin-right:auto;
+    width:200px;
+  }
+  .pg-button-248 {
+    margin-left:auto;
+    margin-right:auto;
+    width:200px;
+  }
+  .pg-button-933 {
+    margin-left:auto;
+    margin-right:auto;
+    width:200px;
+  }
+  .footer {
+    height:400px;
+  }
+  .popup-login {
+    width:300px;
+  }
+  .import {
+    width:300px;
+  }
+  .popup-findpw {
+    width:300px;
+  }
+  .import-361 {
+    width:300px;
+  }
+
+}

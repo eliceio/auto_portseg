@@ -1,0 +1,84 @@
+.pg-form-2058 {
+  float:none;
+  height:100%;
+  width:100%;
+}
+.login-2059 {
+  color:#FA690A;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:20px;
+  font-weight:700;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:40px;
+  position:relative;
+  text-align:center;
+  width:100%;
+}
+.profile_text_input-2060 {
+  background-color:#FFFFFF;
+  border-color:#E6E6E6;
+  border-radius:2px;
+  border-width:1px;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:300;
+  height:80px;
+  line-height:1.30;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  padding:8px;
+  position:relative;
+  text-align:left;
+  width:662.00px;
+  width:calc(100% - 100px);
+  width:-moz-calc(100% - 100px);
+  width:-webkit-calc(100% - 100px);
+}
+.btn_profile_text-2061 {
+  -webkit-transition:background-color 0.4s;
+  background-color:#FA690A;
+  border-radius:4px;
+  border-width:0px;
+  color:#FFFFFF;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:700;
+  height:38px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+  transition:background-color 0.4s;
+  width:310px;
+}
+.btn_profile_text-2061.iux-hover, .btn_profile_text-2061.iux-active {
+  background-color:rgba(250,105,10,0.80);
+}
+@media screen and (max-width:959px) {
+  .login-2059 {
+    margin-left:auto;
+    margin-right:auto;
+  }
+  .profile_text_input-2060 {
+    font-size:14px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:20px;
+    width:662.00px;
+    width:calc(100% - 48px);
+    width:-moz-calc(100% - 48px);
+    width:-webkit-calc(100% - 48px);
+  }
+  .btn_profile_text-2061 {
+    margin-left:auto;
+    margin-right:auto;
+    width:270px;
+  }
+
+}

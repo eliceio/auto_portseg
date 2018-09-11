@@ -1,0 +1,28 @@
+.box-2123 {
+  background-color:#FFFFFF;
+  border-bottom-width:1px;
+  border-color:#E6E6E6;
+  float:none;
+  height:39px;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:100%;
+}
+.pg-radio-button-2124 {
+  height:32px;
+  left:4px;
+  top:4px;
+  width:24px;
+}
+.text-2125 {
+  color:#323232;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  left:30px;
+  top:9px;
+  width:210px;
+}
+@media screen and (max-width:959px) {
+}

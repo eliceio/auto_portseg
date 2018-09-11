@@ -1,0 +1,51 @@
+.box-2122 {
+  background-color:#FFFFFF;
+  float:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:20px;
+  position:relative;
+}
+.image-2160 {
+  border-color:#E6E6E6;
+  border-radius:2px;
+  border-width:1px;
+  float:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:0px;
+  max-width:852px;
+  min-width:400px;
+  padding:8px;
+  position:relative;
+}
+.text-2161 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:14px;
+  font-weight:300;
+  margin-left:0px;
+  margin-top:0px;
+  padding:8px;
+  position:relative;
+  text-align:center;
+}
+@media screen and (max-width:959px) {
+  .box-2122 {
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:12px;
+  }
+  .image-2160 {
+    margin-left:auto;
+    margin-right:auto;
+    max-width:252px;
+    min-width:200px;
+  }
+  .text-2161 {
+    margin-left:0px;
+    margin-top:0px;
+  }
+
+}

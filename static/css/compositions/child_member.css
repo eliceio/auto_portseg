@@ -1,0 +1,77 @@
+.box-1767 {
+  background-color:#F5F5F5;
+  border-bottom-color:#E6E6E6;
+  border-bottom-width:1px;
+  border-left-color:#E6E6E6;
+  border-left-width:1px;
+  border-right-color:#E6E6E6;
+  border-right-width:1px;
+  border-top-color:#929292;
+  border-top-width:4px;
+  float:left;
+  height:57px;
+  margin-left:0px;
+  margin-top:0px;
+  position:relative;
+  width:180px;
+}
+.floating-image-1725 {
+  background-image:url('/static/project/ex_project_3.jpg');
+  background-position:center center;
+  background-size:contain;
+  border-color:#929292;
+  border-radius:50%;
+  border-width:1px;
+  float:left;
+  height:34px;
+  margin-left:20px;
+  margin-top:10px;
+  position:relative;
+  width:34px;
+}
+.text-320 {
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:1;
+  box-orient:vertical;
+  color:#929292;
+  float:left;
+  font-weight:400;
+  letter-spacing:1.2px;
+  margin-left:12px;
+  margin-top:16px;
+  max-width:90px;
+  overflow:hidden;
+  position:relative;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
+.text-320 > p {
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+@media screen and (max-width:959px) {
+  .box-1767 {
+    height:77px;
+    margin-left:0px;
+    margin-top:0px;
+    width:73px;
+  }
+  .floating-image-1725 {
+    float:none;
+    height:36px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10px;
+    width:36px;
+  }
+  .text-320 {
+    float:none;
+    font-size:14px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2px;
+    max-width:60px;
+    text-align:center;
+  }
+
+}

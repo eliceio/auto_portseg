@@ -1,0 +1,394 @@
+.iu-center-box {
+  width:960px;
+}
+.header {
+  -webkit-box-shadow:0px 2px 0px 0px #DBDBDB;
+  background-color:#FFFFFF;
+  box-shadow:0px 2px 0px 0px #DBDBDB;
+  color:#333333;
+  float:none;
+  height:60px;
+  left:0px;
+  min-width:960px;
+  overflow:visible;
+  position:fixed;
+  top:0px;
+  width:100%;
+  z-index:10;
+}
+.page-content {
+  background-color:#FFFFFF;
+  padding-top:62px;
+}
+.section {
+  background-image:url('/static/project/wintercamp_title_bg.png');
+  background-size:cover;
+  height:270px;
+}
+.center-box {
+  background-image:url('/static/project/wintercamp_title.png');
+  background-size:cover;
+}
+.section-896 {
+  background-color:#F5B43E;
+  height:225px;
+}
+.center-box-897 {
+  background-image:url('/static/project/wintercamp_sub_title.png');
+  background-size:cover;
+}
+.section-898 {
+  background-color:#E86C2D;
+  height:690px;
+}
+.center-box-899 {
+  background-image:url('/static/project/wintercamp_sub_title_2.png');
+  background-size:cover;
+}
+.box {
+  height:257px;
+  left:31px;
+  top:406px;
+  width:288px;
+}
+.box.iux-hover, .box.iux-active {
+  background-color:rgba(0,0,0,0.10);
+}
+.box-904 {
+  height:257px;
+  right:30px;
+  top:406px;
+  width:288px;
+}
+.box-904.iux-hover, .box-904.iux-active {
+  background-color:rgba(0,0,0,0.10);
+}
+.box-903 {
+  height:257px;
+  left:0px;
+  margin-left:auto;
+  margin-right:auto;
+  right:0px;
+  top:406px;
+  width:288px;
+}
+.box-903.iux-hover, .box-903.iux-active {
+  background-color:rgba(0,0,0,0.10);
+}
+.section-894 {
+  background-color:#E76E68;
+  height:1900px;
+}
+.center-box-895 {
+  background-image:url('/static/project/17w_campus_1_1.png');
+}
+.box-906 {
+  height:360px;
+  left:16px;
+  top:334px;
+  width:300px;
+}
+.box-906.iux-hover, .box-906.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-907 {
+  height:360px;
+  left:331px;
+  top:334px;
+  width:300px;
+}
+.box-907.iux-hover, .box-907.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-908 {
+  height:360px;
+  left:646px;
+  top:334px;
+  width:300px;
+}
+.box-908.iux-hover, .box-908.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-909 {
+  height:360px;
+  left:16px;
+  top:709px;
+  width:300px;
+}
+.box-909.iux-hover, .box-909.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-910 {
+  height:360px;
+  left:331px;
+  top:709px;
+  width:300px;
+}
+.box-910.iux-hover, .box-910.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-911 {
+  height:360px;
+  left:646px;
+  top:709px;
+  width:300px;
+}
+.box-911.iux-hover, .box-911.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-912 {
+  height:360px;
+  left:16px;
+  top:1084px;
+  width:300px;
+}
+.box-912.iux-hover, .box-912.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-913 {
+  height:360px;
+  left:331px;
+  top:1084px;
+  width:300px;
+}
+.box-913.iux-hover, .box-913.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-914 {
+  height:360px;
+  left:646px;
+  top:1084px;
+  width:300px;
+}
+.box-914.iux-hover, .box-914.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-915 {
+  height:360px;
+  left:16px;
+  top:1459px;
+  width:300px;
+}
+.box-915.iux-hover, .box-915.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-916 {
+  height:360px;
+  left:331px;
+  top:1459px;
+  width:300px;
+}
+.box-916.iux-hover, .box-916.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-917 {
+  height:360px;
+  left:646px;
+  top:1459px;
+  width:300px;
+}
+.box-917.iux-hover, .box-917.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.section-900 {
+  background-color:#52ACDF;
+  height:1900px;
+}
+.center-box-901 {
+  background-image:url('/static/project/17w_campus_2.png');
+}
+.box-918 {
+  height:360px;
+  left:16px;
+  top:334px;
+  width:300px;
+}
+.box-918.iux-hover, .box-918.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-919 {
+  height:360px;
+  left:331px;
+  top:334px;
+  width:300px;
+}
+.box-919.iux-hover, .box-919.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-920 {
+  height:360px;
+  left:646px;
+  top:334px;
+  width:300px;
+}
+.box-920.iux-hover, .box-920.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-921 {
+  height:360px;
+  left:16px;
+  top:709px;
+  width:300px;
+}
+.box-921.iux-hover, .box-921.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-922 {
+  height:360px;
+  left:331px;
+  top:709px;
+  width:300px;
+}
+.box-922.iux-hover, .box-922.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-923 {
+  height:360px;
+  left:646px;
+  top:709px;
+  width:300px;
+}
+.box-923.iux-hover, .box-923.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-924 {
+  height:360px;
+  left:16px;
+  top:1084px;
+  width:300px;
+}
+.box-924.iux-hover, .box-924.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-925 {
+  height:360px;
+  left:331px;
+  top:1084px;
+  width:300px;
+}
+.box-925.iux-hover, .box-925.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-927 {
+  height:360px;
+  left:16px;
+  top:1459px;
+  width:300px;
+}
+.box-927.iux-hover, .box-927.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-928 {
+  height:360px;
+  left:331px;
+  top:1459px;
+  width:300px;
+}
+.box-928.iux-hover, .box-928.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-929 {
+  height:360px;
+  left:646px;
+  top:1459px;
+  width:300px;
+}
+.box-929.iux-hover, .box-929.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.section-902 {
+  background-color:#5CAEA3;
+  height:1700px;
+}
+.center-box-903 {
+  background-image:url('/static/project/17w_campus_3.png');
+}
+.box-930 {
+  height:360px;
+  left:15px;
+  top:508px;
+  width:300px;
+}
+.box-930.iux-hover, .box-930.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-931 {
+  height:360px;
+  left:330px;
+  top:508px;
+  width:300px;
+}
+.box-931.iux-hover, .box-931.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-932 {
+  height:360px;
+  left:645px;
+  top:508px;
+  width:300px;
+}
+.box-932.iux-hover, .box-932.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-933 {
+  height:360px;
+  left:15px;
+  top:883px;
+  width:300px;
+}
+.box-933.iux-hover, .box-933.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-934 {
+  height:360px;
+  left:330px;
+  top:883px;
+  width:300px;
+}
+.box-934.iux-hover, .box-934.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-935 {
+  height:360px;
+  left:645px;
+  top:883px;
+  width:300px;
+}
+.box-935.iux-hover, .box-935.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.box-936 {
+  height:360px;
+  left:15px;
+  top:1258px;
+  width:300px;
+}
+.box-936.iux-hover, .box-936.iux-active {
+  background-color:rgba(0,0,0,0.20);
+}
+.footer {
+  background-color:#282828;
+  height:300px;
+  left:0px;
+  position:relative;
+  top:0px;
+  width:100%;
+}
+@media screen and (max-width:959px) {
+  .iu-center-box {
+    width:320px;
+  }
+  .header {
+    min-width:320px;
+  }
+  .box-903 {
+    left:0px;
+    margin-left:auto;
+    margin-right:auto;
+    right:0px;
+  }
+  .footer {
+    height:400px;
+  }
+
+}

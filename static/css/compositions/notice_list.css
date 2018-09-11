@@ -1,0 +1,55 @@
+.text-1967 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:300;
+  left:10px;
+  text-align:center;
+  top:8px;
+  width:50px;
+}
+.text-1968 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:300;
+  left:70px;
+  text-align:center;
+  top:8px;
+  width:110px;
+}
+.text-1969 {
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:1;
+  box-orient:vertical;
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:300;
+  left:190px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  top:8px;
+  white-space:nowrap;
+  width:610px;
+}
+.text-1969 > p {
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+.text-1970 {
+  color:#323232;
+  float:none;
+  font-family:'Noto Sans KR', sans-serif;
+  font-size:16px;
+  font-weight:300;
+  left:810px;
+  text-align:center;
+  top:8px;
+  width:110px;
+}
+@media screen and (max-width:959px) {
+}
