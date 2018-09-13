@@ -382,8 +382,14 @@ a:hover, a:active, a:focus {
    About section              
 -----------------------------------------*/
 
-#about .about-img {
-    background: url('../images/about-img.jpg') no-repeat;
+#about .about-img1 {
+    background: url('../images/about-img1.jpg') no-repeat;
+}
+#about .about-img2 {
+    background: url('../images/about-img2.jpg') no-repeat;
+}
+#about .about-img3 {
+    background: url('../images/about-img3.jpg') no-repeat;
 }
 
 #about .about-thumb,
@@ -439,8 +445,14 @@ a:hover, a:active, a:focus {
     Experience section              
 -----------------------------------------*/
 
-#experience .experience-img {
-  background: url('../images/experience-img.jpg') no-repeat;
+#experience .experience-img1 {
+  background: url('../images/experience-img1.jpg') no-repeat;
+}
+#experience .experience-img2 {
+  background: url('../images/experience-img2.jpg') no-repeat;
+}
+#experience .experience-img3 {
+  background: url('../images/experience-img3.jpg') no-repeat;
 }
 
 #experience .media-heading {
@@ -465,8 +477,14 @@ a:hover, a:active, a:focus {
   background: #E3AE57;
 }
 
-#education .education-img {
-  background: url('../images/education-img.jpg') no-repeat;
+#education .education-img1 {
+  background: url('../images/education-img1.jpg') no-repeat;
+}
+#education .education-img2 {
+  background: url('../images/education-img2.jpg') no-repeat;
+}
+#education .education-img3 {
+  background: url('../images/education-img3.jpg') no-repeat;
 }
 
 #education .media-heading {

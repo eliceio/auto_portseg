@@ -21,6 +21,7 @@ $(document).ready(function() {
             return 0;
         } else {
             preview_img(this);
+
             var form_data = new FormData();
             form_data.append('file', file);
         }

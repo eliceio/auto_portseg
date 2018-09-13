@@ -9,14 +9,24 @@
     <div>
         <h4 class="portraitization_title">Check your portrait!</h4>
         <div class="col-md-6 col-sm-6">
-            <div class="img img-show">
-                <p id="img img-p">It is your portrait.</p>
-            </div>
             {% if portrait_image.get_model_type == 'portrait' %}
-                <img class="extracted_img" src="{% if portrait_image.image_file.url %}{{ portrait_image.image_file.url }}{% endif %}">
-
+                <div class="img img-show">
+                    <p id="img img-p">It is your portrait.</p>
+                    <img class="extracted_img" src="{% if portrait_image.image_file.url %}{{ portrait_image.image_file.url }}{% endif %}">
+                </div>
             {% else %}
-                <p>{{ portrait_image }}</p>
+                <div class="<p-show">
+                    <p>{{ portrait_image }}</p>
+                </div>
+            {% endif %}
+        </div>
+        <div class="col-md-6 col-sm-6">
+            {% if portrait_image.get_model_type == 'portrait' %}
+                <div class="comment">
+                </div>
+            {% else %}
+                <div class="<p-show">
+                </div>
             {% endif %}
         </div>
     </div>
