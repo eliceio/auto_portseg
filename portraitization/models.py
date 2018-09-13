@@ -50,6 +50,7 @@ class CropImage(TimeStampedModel):
 
 class Portrait(TimeStampedModel):
     raw_image = models.ForeignKey(RawImage, on_delete=models.CASCADE)
+    crop_image = models.ForeignKey(CropImage, on_delete=models.CASCADE, default=1)
     image_file = models.ImageField(upload_to='not_used',
                                    height_field="height_field",
                                    width_field="width_field")

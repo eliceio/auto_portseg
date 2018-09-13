@@ -21,35 +21,31 @@ def handle_image_file(image_file):
 
     # Check the size of the input file
     if raw_image.height_field < 800 or raw_image.width_field < 600:
-        return 'size'
-    elif raw_image.height_field > 2000 and raw_image.width_field > 1500:
-        crop_flag = 1
-    elif raw_image.height_field > 1200 and raw_image.width_field > 900:
-        crop_flag = 2
-    else:
-        crop_flag = 0
+        return '이미지 사진이 너무 작습니다. 좀 더 큰 이미지를 넣어주세요.'
 
     # Extract cropped portraits and check the number of extracted objects
-    obj_list = extract(raw_image.image_file.path, crop_flag=crop_flag)
+    obj_list = extract(raw_image.image_file.path)
     if len(obj_list) == 1:
         img = obj_list[0]
         # Save the extracted one object
         crop_abs_path, crop_rel_path = save_image('crop_images', raw_image.image_file.path, img)
 
-        # crop_image = CropImage()
-        # crop_image.image_file.name = crop_path
-        # crop_image.raw_image = raw_image
-        # crop_image.save()
+        crop_image = CropImage()
+        crop_image.image_file.name = crop_rel_path
+        crop_image.raw_image = raw_image
+        crop_image.save()
+    elif len(obj_list) > 1:
+        return '이미지에서 2명 이상의 사람이 감지되었습니다.'
     else:
-        return 'object'
+        return '이미지에서 사람을 찾을 수 없습니다.'
 
     # Check whether he(she) wear a hat
     if classify_hat(crop_abs_path):
-        return 'hat'
+        return '모자를 벗은 사진을 넣어주세요.'
 
     # Check the angle of image
-    if None:
-        return 'angle'
+    if classify_angle(crop_abs_path):
+        return '정면을 바라본 사진을 넣어주세요.'
 
     # Segmentation
     fcn = FCN8s(2)
@@ -63,6 +59,7 @@ def handle_image_file(image_file):
     portrait = Portrait()
     portrait.image_file.name = portrait_rel_path
     portrait.raw_image = raw_image
+    portrait.crop_image = crop_image
     portrait.save()
 
     return portrait
@@ -91,8 +88,7 @@ def extract(image_path,
             scale_factor=1.1,
             min_neighbors=5,
             min_size=(100, 100),
-            cascade_file=FRONTALFACE_ALT2,
-            crop_flag=0):
+            cascade_file=FRONTALFACE_ALT2):
     """ Extract the objects from image and return number of objects detected
     image_path -- The path of the image.
     size -- Size of face images (default None - no rescale at all)
@@ -159,15 +155,6 @@ def detect(image,
                                        minNeighbors=min_neighbors,
                                        minSize=min_size)
 
-
-# COLOR_SET = [
-#     [255, 255, 255], [0, 0, 0], [190, 193, 212], [214, 188, 192],
-#     [187, 119, 132], [142, 6, 59], [74, 111, 227], [133, 149, 225],
-#     [181, 187, 227], [230, 175, 185], [224, 123, 145], [211, 63, 106],
-#     [17, 198, 56], [141, 213, 147], [198, 222, 199], [234, 211, 198],
-#     [240, 185, 141], [239, 151, 8], [15, 207, 192], [156, 222, 214],
-#     [213, 234, 231], [243, 225, 235], [246, 196, 225], [247, 156, 212]
-# ]
 
 COLOR_SET = [
     [255, 255, 255], [0, 0, 0]
@@ -256,6 +243,37 @@ def classify_hat(iamge_path):
         resnet_hat.train(mode=prev_model)
 
     return preds # 0: hair, 1: hat
+
+def classify_angle(image_path):
+    face_path = os.path.join(settings.BASE_DIR, 'portraitization/haarcascades/haarcascade_frontalface_default.xml')
+    eye_path = os.path.join(settings.BASE_DIR, 'portraitization/haarcascades/haarcascade_eye.xml')
+    face_cd = cv2.CascadeClassifier(os.path.join(settings.BASE_DIR, 'portraitization/haarcascades/haarcascade_frontalface_default.xml'))
+    eye_cd = cv2.CascadeClassifier(os.path.join(settings.BASE_DIR, 'portraitization/haarcascades/haarcascade_eye.xml'))
+
+    try:
+        img = cv2.cvtColor(cv2.imread(image_path), cv2.COLOR_BGR2RGB)
+        img_grey = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+        faces = face_cd.detectMultiScale(img_grey, 1.1, 15)
+
+        x, y, w, h = faces[0]
+
+        roi_gray = img_grey[y:y + h, x:x + w]
+
+        eyes = eye_cd.detectMultiScale(roi_gray)
+        ex1, ey1, ew1, eh1 = eyes[0]
+        ex2, ey2, ew2, eh2 = eyes[1]
+
+        angle = np.arctan(
+            abs(x + ex2 + int(ew2 / 2) - x + ex1 + int(ew1 / 2)) / abs((y + ey1 + int(eh1 / 2)) - (y + ey2 + int(eh2 / 2))))
+    except IndexError:
+        return 1
+
+    if angle < 1.5:
+        preds = 1
+    else:
+        preds = 0
+
+    return preds # 0: good, 1: bad
 
 
 def remove_background(image_path, mask_path):
