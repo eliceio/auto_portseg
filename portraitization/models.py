@@ -55,3 +55,6 @@ class Portrait(TimeStampedModel):
                                    width_field="width_field")
     height_field = models.IntegerField(null=True, default=0)
     width_field = models.IntegerField(null=True, default=0)
+
+    def get_model_type(self):
+        return "portrait"

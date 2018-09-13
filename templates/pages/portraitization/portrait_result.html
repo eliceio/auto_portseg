@@ -12,11 +12,11 @@
             <div class="img img-show">
                 <p id="img img-p">It is your portrait.</p>
             </div>
-            {% if portrait_image %}
-{#                <img class="portrait_img" src="{{ portrait_image }}">#}
-                <p>{{ portrait_image }}</p>
+            {% if portrait_image.get_model_type == 'portrait' %}
+                <img class="extracted_img" src="{% if portrait_image.image_file.url %}{{ portrait_image.image_file.url }}{% endif %}">
+
             {% else %}
-                <p>Upload the valid image!</p>
+                <p>{{ portrait_image }}</p>
             {% endif %}
         </div>
     </div>

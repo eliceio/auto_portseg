@@ -55,3 +55,8 @@ form button {
     font-size: 26px;
     padding-top: 15px;
 }
+
+#user_img {
+    height: auto;
+    width: 600px;
+}

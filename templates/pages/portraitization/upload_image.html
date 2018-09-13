@@ -9,15 +9,15 @@
     <div>
         <h4 class="portraitization_title">Upload your Selfie!</h4>
         <form action="" method="post" enctype="multipart/form-data">
-            <div class="col-md-6 col-sm-6">
+            <div class="wow col-md-6 col-sm-6" data-wow-delay="0.3s">
                 {% csrf_token %}
                 {{ form.as_p }}
                 <button type="submit" class="save btn btn-default">Upload</button>
-                <div class="img img-show">
-                    <p id="img img-p">If you choose a image, It will be shown here.</p>
+                <div class="wow img img-show">
+                    <p id="wow img img-p" data-wow-delay="0.6s">If you choose a image, It will be shown here.</p>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-6">
+            <div class="col-md-6 col-sm-6 parallax-section">
                 <div class="img img-progress">
                     <h3 class="img progress-p p1">Crop the image</h3>
                     <h3 class="img progress-p p2">Check the size of the cropped image</h3>
